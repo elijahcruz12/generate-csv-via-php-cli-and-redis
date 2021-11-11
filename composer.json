@@ -1,0 +1,15 @@
+{
+    "name": "ecwebservices/csvfiletests",
+    "authors": [
+        {
+            "name": "Elijah Cruz",
+            "email": "ecwebservices@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"^7.4|^8.0|^8.1",
+        "fakerphp/faker": "^1.16",
+        "predis/predis": "^1.1",
+        "illuminate/support": "^8.70"
+    }
+}
